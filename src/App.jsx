@@ -166,9 +166,9 @@ export default function App() {
             </p>
 
             <div className="project-buttons">
-              <a className="btn-demo" href="https://nothwet29.github.io/mern-resep/" target="_blank">Demo</a>
-              <a className="btn-git" href="https://github.com/Nothwet29/mern-resep" target="_blank">Frontend</a>
-              <a className="btn-git" href="https://github.com/Nothwet29/mern-resep-backend" target="_blank">Backend</a>
+              <a className="btn-demo" href="https://nothwezt29.github.io/mern-resep/" target="_blank">Demo</a>
+              <a className="btn-git" href="https://github.com/Nothwezt29/mern-resep" target="_blank">Frontend</a>
+              <a className="btn-git" href="https://github.com/Nothwezt29/mern-resep-backend" target="_blank">Backend</a>
             </div>
           </div>
         </section>
@@ -178,7 +178,7 @@ export default function App() {
           <h2 className="card-title">Kontak</h2>
           <p>Email: mlistanto29@gmail.com</p>
           <p>WhatsApp: 087878296464</p>
-          <p>GitHub: github.com/Nothwet29</p>
+          <p>GitHub: github.com/Nothwezt29</p>
         </section>
 
       </div>
