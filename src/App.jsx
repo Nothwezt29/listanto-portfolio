@@ -27,7 +27,7 @@ export default function App() {
 
       <header className="hero-section fade">
         <div className="hero-content">
-          <img src="/profile.png" alt="Foto Profil" className="profile-img" />
+          <img src="profile.png" alt="Foto Profil" className="profile-img" />
 
           <h1 className="name">Muhammad Listanto</h1>
 
@@ -35,7 +35,7 @@ export default function App() {
             Frontend Developer (Entry Level) • IT Support • Network Technician
           </p>
 
-          <a className="download-btn" href="/Listanto_CV.pdf" download>
+          <a className="download-btn" href="CV_Muhammad_Listanto.pdf" download>
             Download CV
           </a>
         </div>
