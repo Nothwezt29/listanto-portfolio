@@ -148,7 +148,7 @@ export default function App() {
             </p>
 
             <div className="project-buttons">
-              <a className="btn-demo" href="#" target="_blank">
+              <a className="btn-demo" href="https://youtu.be/6GBUXPOtDdc?si=2dU0NKYTdadEGEAX" target="_blank">
                 Demo (Pengembangan)
               </a>
 
